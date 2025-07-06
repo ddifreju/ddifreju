@@ -13,7 +13,7 @@
 ### 👩‍💻 Sobre Mim
 
 <p>
-  Sou uma Desenvolvedora de Software com uma base sólida em desenvolvimento Full Stack utilizando <strong>React, Node.js, TypeScript e SQL</strong>. Minha trajetória profissional me proporcionou uma forte experiência em gestão de projetos e liderança, habilidades que hoje combino com meu conhecimento técnico para traduzir necessidades de negócio em soluções eficientes e de alta qualidade.
+  Sou uma Desenvolvedora de Software Full Stack, habituada com <strong>React, Node.js, TypeScript e SQL</strong>. Minha trajetória profissional me proporcionou uma forte experiência em gestão de projetos e liderança, habilidades que hoje combino com meu conhecimento técnico para traduzir necessidades de negócio em soluções eficientes e de alta qualidade.
 </p>
 <p>
   Possuo um perfil analítico e colaborativo, e aplico metodologias ágeis como Scrum e Kanban no meu dia a dia para otimizar o fluxo de trabalho e garantir entregas de valor.
@@ -21,7 +21,7 @@
 
 <ul>
   <li>🎓 Cursando <strong>Engenharia da Computação</strong> na UNIVESP e o Bootcamp de <strong>Desenvolvedora Full Stack JavaScript</strong> na Generation Brasil.</li>
-  <li>🌱 Atualmente estou focada em aprimorar minhas habilidades em <strong>APIs RESTful e arquitetura de software</strong>.</li>
+  <li>🌱 Atualmente estou focada em aprimorar minhas habilidades em <strong>APIs RESTful, Angular e arquitetura de software</strong>.</li>
   <li>🤝 Minha experiência como Coordenadora e Gerente de Projetos me ensinou a liderar o ciclo completo de projetos de impacto social, beneficiando diretamente centenas de pessoas.</li>
   <li>⚡ Curiosidade: Acredito no poder da tecnologia como ferramenta de transformação social, uma paixão que apliquei liderando projetos voluntários de capacitação digital.</li>
 </ul>
@@ -35,7 +35,7 @@
   <h3 align="center">Software Developer | Focusing on JavaScript, TypeScript & Node.js</h3>
   
   <p>
-    I am a Software Developer with a solid foundation in Full Stack Development using <strong>React, Node.js, TypeScript, and SQL</strong>. My professional journey has provided me with strong experience in project management and leadership, skills that I now combine with my technical knowledge to translate business needs into efficient, high-quality solutions.
+    I am a Software Developer Full Stack usually using <strong>React, Node.js, TypeScript, and SQL</strong>. My professional journey has provided me with strong experience in project management and leadership, skills that I now combine with my technical knowledge to translate business needs into efficient, high-quality solutions.
   </p>
   <p>
     I have an analytical and collaborative profile, and I apply agile methodologies such as Scrum and Kanban in my daily work to optimize workflow and ensure value-driven deliveries.
